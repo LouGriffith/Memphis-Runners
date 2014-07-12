@@ -7990,3 +7990,8 @@ li.back a {
   font-size: .8em;
   padding: .2em 1em;
 }
+
+/* line 188, ../scss/app.scss */
+.member-release {
+  height: 300px;
+}

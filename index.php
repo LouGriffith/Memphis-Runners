@@ -7,7 +7,7 @@
     <header>
       <?php include("includes/nav.php"); ?>
 
-      <a href="#" class="radius button right join">Join MRTC</a>
+      <a href="form-signup.php" class="radius button right join">Join MRTC</a>
         
       <div data-alert class="alert-box clearfix">
         <div class="row">
